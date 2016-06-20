@@ -3,9 +3,9 @@
 Plugin Name: WooCommerce - Hide Weight & Dimensions
 Plugin URI: https://github.com/OM4/woocomerce-hide-weight-dimensions
 Description: Ensures that product weight and dimensions aren't displayed on the Additional Information tab when viewing a WooCommerce product.
-Version: 0.1
+Version: 0.2
 Author: OM4
-Author URI: http://om4.com.au/
+Author URI: https//om4.com.au/plugins/
 Text Domain: woocomerce-hide-weight-dimensions
 Git URI: https://github.com/OM4/woocomerce-hide-weight-dimensions
 Git Branch: release
@@ -13,7 +13,7 @@ License: GPLv2
 */
 
 /*
-Copyright 2014 OM4 (email: info@om4.com.au    web: http://om4.com.au/)
+Copyright 2014-2016 OM4 (email: plugins@om4.com.au    web: https://om4.com.au/plugins/)
 
 This program is free software; you can redistribute it and/or modify
 it under the terms of the GNU General Public License as published by
